@@ -1,0 +1,15 @@
+INSERT INTO `items` (`name`, `label`, `weight`, `rare`, `can_remove`) VALUES
+	('uzum', 'Üzüm', 1, 0, 1),
+	('sarap', 'Kaçak Şarap', 1, 0, 1),
+	('tas', 'Taş', 1, 0, 1),
+	('mdntoken', 'Maden Token', 1, 0, 1),
+	('kazma', 'Kazma', 1, 0, 1),
+	('canlitavuk', 'Canlı Tavuk', 1, 0, 1),
+	('kesilmistavuk', 'Kesilmiş Tavuk', 1, 0, 1),
+	('paketlenmistavuk', 'Paketlenmiş Tavuk', 1, 0, 1),
+	('kütük', 'Kütük', 1, 0, 1),
+	('odun', 'Odun', 1, 0, 1),
+	('talas', 'Talaş', 1, 0, 1),
+	('kumas', 'Kumaş', 1, 0, 1),
+	('elbise', 'Dikilmiş Elbise', 1, 0, 1),
+;
